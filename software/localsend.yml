@@ -1,0 +1,16 @@
+name: "LocalSend"
+website_url: "https://localsend.org/"
+source_code_url: "https://github.com/localsend/localsend"
+description: "An open-source cross-platform alternative to AirDrop."
+licenses:
+  - MIT
+platforms:
+  - Dart
+  - C++
+  - Powershell
+tags:
+  - local
+  - file-sharing
+  - flutter
+  - cross-platform
+depends_3rdparty: false
